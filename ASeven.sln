@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASeven", "ASeven\ASeven.csproj", "{360C71BF-DFFB-4D1F-BB47-887B64E7F459}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F8CC6CC9-358C-472B-8FA3-497A25D5E308} = {F8CC6CC9-358C-472B-8FA3-497A25D5E308}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{F8CC6CC9-358C-472B-8FA3-497A25D5E308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360C71BF-DFFB-4D1F-BB47-887B64E7F459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360C71BF-DFFB-4D1F-BB47-887B64E7F459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360C71BF-DFFB-4D1F-BB47-887B64E7F459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360C71BF-DFFB-4D1F-BB47-887B64E7F459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CC6CC9-358C-472B-8FA3-497A25D5E308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CC6CC9-358C-472B-8FA3-497A25D5E308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CC6CC9-358C-472B-8FA3-497A25D5E308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CC6CC9-358C-472B-8FA3-497A25D5E308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAEFE2EC-45F4-40C1-B4C3-9157C04536DB}
+	EndGlobalSection
+EndGlobal

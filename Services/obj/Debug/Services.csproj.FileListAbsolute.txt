@@ -1,0 +1,7 @@
+C:\Users\Oscar Ortiz\source\repos\ASeven\Services\bin\Services.dll.config
+C:\Users\Oscar Ortiz\source\repos\ASeven\Services\bin\Services.dll
+C:\Users\Oscar Ortiz\source\repos\ASeven\Services\bin\Services.pdb
+C:\Users\Oscar Ortiz\source\repos\ASeven\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\Oscar Ortiz\source\repos\ASeven\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Ortiz\source\repos\ASeven\Services\obj\Debug\Services.dll
+C:\Users\Oscar Ortiz\source\repos\ASeven\Services\obj\Debug\Services.pdb
